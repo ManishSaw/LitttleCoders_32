@@ -35,4 +35,4 @@ Project Title: MadeIN (The face of Indian artisans)
   Does a project has minimum harware requirements ?
  
 
-Credits and other informations:
+Credits and other informations
